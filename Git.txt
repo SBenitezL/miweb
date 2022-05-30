@@ -13,3 +13,7 @@ git mv <NombreActual> <NombreNuevo> -> cambia el nombre de un archivo y lo agreg
 git diff -> Muestra de una forma mas visual los cambios
 git status s -> Muestra de una 
 git diff --staged -> Muestra los cambios entre el los staged del anterior commit y lo actual
+git log -> Muestra los historiales de commit
+git log -oneline muestra de forma cómoda el historial de commits
+git branch -> muestra las ramas disponibles
+git checkout -b <Nombre> ->Crea una nueva rama para trabajar
