@@ -10,3 +10,6 @@ rm <NombreArchivo> -> Elimina el archivo elegido
 git rm <NombreArchivo> -> Elimina el archivo elegido y hace el add
 mv <NombreActual> <NombreNuevo> -> cambia el nombre de un archivo
 git mv <NombreActual> <NombreNuevo> -> cambia el nombre de un archivo y lo agrega
+git diff -> Muestra de una forma mas visual los cambios
+git status s -> Muestra de una 
+git diff --staged -> Muestra los cambios entre el los staged del anterior commit y lo actual
