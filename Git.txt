@@ -1,0 +1,8 @@
+ls -> lista todos los archivos y carpetas que se encuentran en el directorio actual.
+pwd -> Directorio actual
+cd <Carpeta> -> Avanzar a la carpeta seleccionada
+cd.. ->Salir de una carpeta
+mkdir <nombre> -> Crea una carpeta con el nombre elegido
+git init -> Inicia el repocitorio en el directorio actual 
+git status -> Muestra el estado del repositorio
+git add <NombreArchivo/ExpresiónRegular/.(El punto agrega todos los archivos no se usa mucho)> -> agrega a un punto intermedio los archivos antes de ser salvados 
